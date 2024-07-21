@@ -6,7 +6,7 @@
 
 
 
-<h2>Project Screenshots:</h2>
+<h2>Demo:</h2>
 
 Follow the Link to View Demo of The Application-
 [Video Link](https://www.youtube.com/watch?v=RsuSrxmX7i8)
